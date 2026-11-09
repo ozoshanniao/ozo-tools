@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.env
+.env.*
+dist/
+outputs/
+dev/.runtime/
+tests/*.json
+*.blend
+*.blend1

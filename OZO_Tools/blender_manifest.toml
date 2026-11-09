@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "ozo_tools"
+version = "0.10.6"
+name = "OZO_Tools"
+tagline = "Custom rigging and workflow tools"
+maintainer = "OZO"
+type = "add-on"
+tags = ["Rigging"]
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc"]
